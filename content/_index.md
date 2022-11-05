@@ -9,7 +9,7 @@ description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogo
   layouts that help you introduce yourself online.
 image_left: false
 images:
-- img/revoir.jpg
+- img/profile_pic.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Mi primer blog

@@ -1,4 +1,4 @@
-baseURL = "http://www.josefuentes.co"
+baseURL = "http://josefuentes.co"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Blog de Jose Fuentes"
