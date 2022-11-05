@@ -1,4 +1,4 @@
-baseURL = "https://josefuentes.co/"
+baseURL = "https://wonderful-tarsier-a82682.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Blog de Jose Fuentes"
